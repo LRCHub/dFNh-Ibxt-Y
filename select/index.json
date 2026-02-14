@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アヴァート / 初音ミク・ナースロボ＿タイプＴ",
+  "base_artist": "サツキ",
+  "createdAt": "2026-02-14T20:46:02.480553Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アヴァート",
+      "artist": "サツキ",
+      "has_synced": false,
+      "path": "select/pl_01_アヴァート_サツキ.txt"
+    }
+  ]
+}
